@@ -33,15 +33,17 @@ LET obj = {
 
 ### ALGORITHM
 
-step1:start the program.
+step1:start the program.create a function.
 
-step2:
+step2:use IF to check the condition .if the length is equal to zero print the output.
 
-step3:
+step3:else use for loop to run a condition specification and print the output.
 
-step4:
+step4:IT the length of string is less than zero print this is an empty string else this is not string.
 
-step5:
+step5:print the output.
+
+step6:end the program.
 
 ### PSEUDOCODE
 ```
@@ -149,13 +151,13 @@ FOR(var i = 0; i <= 10; i++) {
 
 step1:start the program.
 
-step2:
+step2:use class method to create an object.use this to refer to the params
 
-step3:
+step3:create instance to call the the class object. 
 
-step4:
+step4:print the output.
 
-step5:
+step5:end the program.
 
 ### PSEUDOCODE
 ```
@@ -187,15 +189,15 @@ PRINT(book1.Noofbooks("c", 45));
 
 ### ALGORITHM
 
-step1:
+step1:start the program.create an class object.
 
-step2:
+step2:use 'THIS' to refer to the object
 
-step3:
+step3:return 'THIS' .create an instance.call the function.
 
-step4:
+step4:print the output.
 
-step5:
+step5:end the program.
 
 ### PSEUDOCODE
 ```
@@ -223,15 +225,15 @@ TestClass.updateName2();
 
 ### ALGORITHM
 
-step1:
+step1:start the program.
 
-step2:
+step2:enter CONST to create an arrow function.
 
-step3:
+step3:use SETTIMEOUT function to print the output after an second
 
-step4:
+step4:print the output.
 
-step5:
+step5:end the program.
 
 ### PSEUDOCODE
 ```
@@ -248,15 +250,15 @@ ex();
 
 ### ALGORITHM
 
-step1:
+step1:stert the program.
 
-step2:
+step2:for the event loop method create an function.
 
-step3:
+step3:use SETTIMEOUT to print the program after few seconds.
 
-step4:
+step4:print the output.
 
-step5:
+step5:end the program.
 
 ### PSEUDOCODE
 ```
@@ -276,15 +278,15 @@ step5:
 
 ### ALGORITHM
 
-step1:
+step1:start the program.
 
-step2:
+step2:use GETELEMENTBYID to call the id
 
-step3:
+step3:use ADDEVENTLISTNER to add an event.create an function to add an event.
 
-step4:
+step4:print the output.
 
-step5:
+step5:end the program.
 
 ### PSEUDOCODE
 ```
@@ -312,15 +314,15 @@ step5:
 
 ### ALGORITHM
 
-step1:
+step1:start the program.create an class object.
 
-step2:
+step2:use 'THIS' to refer to the params in the constructor.
 
-step3:
+step3:use instance method to create a new person.
 
-step4:
+step4:print the output.
 
-step5:
+step5:end the program.
 
 ### PSEUDOCODE
 ```

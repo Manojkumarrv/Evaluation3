@@ -1,6 +1,19 @@
 # Evaluation3
+
 ### Q1
+
 ### ALGORITHM
+
+step1:start the program. create an object.
+
+step2:use THIS to refer to the property.
+
+step3:call the obj and name .
+
+step4:print the output.
+
+step5:end the program.
+
 ### PSEUDOCODE
 ```
 LET obj = {
@@ -17,7 +30,19 @@ LET obj = {
   channel();
 ```  
 ### Q2
+
 ### ALGORITHM
+
+step1:start the program.
+
+step2:
+
+step3:
+
+step4:
+
+step5:
+
 ### PSEUDOCODE
 ```
 LET string="ABC";
@@ -46,7 +71,23 @@ IF(typeof string === "string"){
 }
 ```
 ### Q3
+
 ### ALGORITHM
+
+step1:start the program with HTML doc.
+
+step2:use arrow function.event callback the function.
+
+step3:print the output.
+
+step4:start the program with HTML doc
+
+step5:create a function and make event callback.
+
+step6:print the output.
+
+step7:end the program.
+
 ### PSEUDOCODE
 ```
 <!DOCTYPE html>
@@ -80,7 +121,19 @@ IF(typeof string === "string"){
 </html>
 ```
 ### Q4
+
 ### ALGORITHM
+
+step1:start the program.
+
+step2:use FOR loop to print numbers from 0 to 10. 
+
+step3:use SETTIMEOUT function to print the output after 1 sec.
+
+step4:print the output.
+
+step5:end the progrsam.
+
 ### PSEUDOCODE
 ```
 FOR(var i = 0; i <= 10; i++) {
@@ -91,7 +144,19 @@ FOR(var i = 0; i <= 10; i++) {
     }
 ```    
 ### Q5
+
 ### ALGORITHM
+
+step1:start the program.
+
+step2:
+
+step3:
+
+step4:
+
+step5:
+
 ### PSEUDOCODE
 ```
 CLASS book{
@@ -119,7 +184,19 @@ CLASS book{
 PRINT(book1.Noofbooks("c", 45));
 ```
 ### Q6
+
 ### ALGORITHM
+
+step1:
+
+step2:
+
+step3:
+
+step4:
+
+step5:
+
 ### PSEUDOCODE
 ```
 CLASS TestClass {
@@ -143,7 +220,19 @@ PRINT(test.updateName());
 TestClass.updateName2();
 ```
 ### Q7
+
 ### ALGORITHM
+
+step1:
+
+step2:
+
+step3:
+
+step4:
+
+step5:
+
 ### PSEUDOCODE
 ```
 CONST ex1 = () => console.log('ex1');
@@ -156,7 +245,19 @@ ex2();
 ex();
 ```
 ### Q8
+
 ### ALGORITHM
+
+step1:
+
+step2:
+
+step3:
+
+step4:
+
+step5:
+
 ### PSEUDOCODE
 ```
 (FUNCTION(){
@@ -172,7 +273,19 @@ ex();
 }());
 ```
 ### Q9
+
 ### ALGORITHM
+
+step1:
+
+step2:
+
+step3:
+
+step4:
+
+step5:
+
 ### PSEUDOCODE
 ```
 <!DOCTYPE html>
@@ -196,7 +309,19 @@ ex();
 </html>
 ```
 ### Q10
+
 ### ALGORITHM
+
+step1:
+
+step2:
+
+step3:
+
+step4:
+
+step5:
+
 ### PSEUDOCODE
 ```
 CLASS person{
